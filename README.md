@@ -5,11 +5,11 @@ Users can browse TV shows/movies, search for titles, view detailed information, 
 
 ## 🚀 Live Demo
 
-(Add your Vercel/Netlify link here)
+(https://my-my-movie-explorer.vercel.app/)
 
 ## 📂 GitHub Repository
 
-(Add your GitHub repository link here)
+https://github.com/rawnakwow/My-My-Movie-Explorer.git
 
 ---
 
