@@ -57,12 +57,12 @@ const MovieModal = ({ movie, onClose }) => {
       )}`,
     },
     {
-      name: "Paramount+",
-      icon: "📺",
-      url: `https://www.paramountplus.com/search/?q=${encodeURIComponent(
-        movie.name
-      )}`,
-    },
+  name: "CBS TV",
+  icon: "📺",
+  url: `https://www.cbs.com/search/?q=${encodeURIComponent(
+    movie.name
+  )}`,
+},
   ];
 
   return (
