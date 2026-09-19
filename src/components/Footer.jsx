@@ -1,4 +1,4 @@
-import { Clapperboard, Code2 } from "lucide-react";
+import { Clapperboard } from "lucide-react";
 import { Link } from "react-router";
 
 const Footer = () => {
@@ -37,10 +37,7 @@ const Footer = () => {
             Movies
           </Link>
 
-          <span className="flex items-center gap-1.5 text-zinc-500">
-            <Code2 size={16} />
-            React Project
-          </span>
+          
         </div>
       </div>
     </footer>
