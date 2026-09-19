@@ -258,4 +258,5 @@ const MovieModal = ({ movie, onClose }) => {
   );
 };
 
+
 export default MovieModal;
